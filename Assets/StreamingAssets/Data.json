@@ -1,0 +1,12 @@
+{
+	"CubeType": [
+		{
+			"color": "Red",
+			"points": 15
+		},
+		{
+			"color": "Blue",
+			"points": 20
+		}
+	]
+}
